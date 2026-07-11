@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="docs/xportLogo.png" alt="Xport icon" width="96" height="96">
-</div>
-
 # Xport
 
 **Xport** is a native macOS app for browsing and exporting local AI chat history stored in SQLite `.db` files — like the conversation logs GitHub Copilot for Xcode keeps on disk.
@@ -12,7 +8,10 @@ Point it at a folder, browse your conversations in a familiar two-pane layout, a
 
 Copilot for Xcode doesn't offer a way to copy an entire conversation out of a single chat window — so Xport started as a workaround: a way to actually get a full chat transcript out and into a shareable format.
 
-![Xport icon](docs/xportLogo.png)
+<div align="center">
+  <img src="docs/xportLogo.png" alt="Xport icon" width="300" height="300">
+</div>
+
 
 Copilot for Xcode doesn't offer a way to copy an entire conversation out of a single chat window — so Xport started as a workaround: a way to actually get a full chat transcript out and into a shareable format.
 
